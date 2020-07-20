@@ -1,0 +1,9 @@
+Package: com.mrgcgamer.moveablex
+Name: MoveableX
+Depends: mobilesubstrate, me.nepeta.axon | com.peterdev.grupi, me.conorthedev.lockwidgets
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Puts Axon / Grupi below LockWidgets!
+Maintainer: MrGcGamer
+Author: MrGcGamer
+Section: Tweaks
